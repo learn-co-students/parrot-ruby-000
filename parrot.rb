@@ -1,7 +1,7 @@
 def parrot(phrase="Squawk!")
-  puts phrase # <---- says Squawk! by default 
+  puts phrase # <---- returns the default phrase
   "Pretty bird!" # <---- returns and outputs given phrase
-  phrase # <---- returns the default phrase
+  phrase # <---- says Squawk! by default 
 end
 
 # Create method `parrot` that outputs a given phrase and
